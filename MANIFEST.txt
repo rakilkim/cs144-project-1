@@ -1,0 +1,54 @@
+ALL students complete this section:
+
+CHOICES
+(You are allowed to choose a feature for some of the requirements. Indicate on the line
+ which one you chose using the letter provided in the spec. Separate the letters with a comma
+ In some cases you will also need to tell us what you did)
+-------
+9a. Used text-shadow on my h2 elements which are the different sections on the page.
+9b. Used clamp() on my h1 element which is the "About Me" text. It will grow and shrink with screen size.
+12. a,b,c
+18. a
+19.
+
+JAVASCRIPT
+(Please tells us what the JavaScript does e.g. "click on the green button and it does the following...")
+----------
+Clicking on the button on the top right of my page will change the theme of the website(light and dark).
+I also used JS to display the value of the range type input element.
+
+
+
+NOTES TO STAFF
+(If there is anything you need to tell us, please use the section below)
+---------------
+
+
+
+
+ONLY modify this section if you implemented the requirements across 2 or more files.
+Otherwise, submit this file as is. PLEASE do not delete anything from this file.
+
+REQUIREMENT LOCATION
+(After the period, hit TAB and then enter the HTML page name where the requirement
+ was implemented)
+---------------------
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
